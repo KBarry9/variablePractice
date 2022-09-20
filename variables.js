@@ -5,3 +5,6 @@ var hair = "brown"
 var age = 30
 var height = 67
 var numberPets = 2
+
+var venmoSent = true
+var assignmentSubmitted = true
